@@ -1,2 +1,2 @@
-# GX_QB
-Redirect URL for GlasPacLX / QBO Integration 
+# QB_Integration
+Redirect URL for QB_Integration
